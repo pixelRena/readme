@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200"/>
   <h1>< 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 ></h1>
   
-  <a href="https://devserena.herokuapp.com/">𝙳𝚎𝚟 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘</a><br/>
+  <a href="https://dev-serena.vercel.app/">𝙳𝚎𝚟 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘</a><br/>
   <a href="https://www.linkedin.com/in/sdean00/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/pixelRena"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div>
