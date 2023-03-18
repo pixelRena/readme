@@ -29,6 +29,3 @@
 
 ### < 𝚁𝚎𝚌𝚎𝚗𝚝 𝙱𝚕𝚘𝚐𝚜 >
 - [Dev.to Blogs](https://dev.to/pixelrena)
-
-### How'd I get the badges
-- [Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
