@@ -9,7 +9,7 @@
   <br/>
   <h2>< 🔋 𝙰𝚋𝚒𝚕𝚒𝚝𝚒𝚎𝚜 𝙶𝚊𝚒𝚗𝚎𝚍 🔋 ></h2>
   <br/>
-  <img align="right" height="210em" alt="pixelRena-persona-gif" src="https://www.hxchector.com/wp-content/uploads/2013/07/p4a_persona_summon.gif">
+  <img align="right" height="190em" alt="pixelRena-persona-gif" src="https://www.hxchector.com/wp-content/uploads/2013/07/p4a_persona_summon.gif">
   <div>
     
   ```javascript
