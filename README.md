@@ -9,9 +9,10 @@
   <br/>
   <h2>< 🔋 𝙰𝚋𝚒𝚕𝚒𝚝𝚒𝚎𝚜 𝙶𝚊𝚒𝚗𝚎𝚍 🔋 ></h2>
   <br/>
+</div>
+<div>
   <img align="right" height="190em" alt="pixelRena-persona-gif" src="https://www.hxchector.com/wp-content/uploads/2013/07/p4a_persona_summon.gif">
-  <div>
-    
+  
   ```javascript
   1 'React & React Native'
   2 'TypeScript'
@@ -24,9 +25,6 @@
   /* More abilities will load from continuous learning stages... */
   ```
 
-  </div>
-  <br/>
-    
-  ![Snake animation](https://github.com/pixelrena/pixelrena/blob/output/github-contribution-grid-snake.svg)
-
 </div>
+
+  ![Snake animation](https://github.com/pixelrena/pixelrena/blob/output/github-contribution-grid-snake.svg)
