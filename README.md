@@ -1,6 +1,6 @@
 <div align="center">
   <img alt="pixelRena-catmatrix" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200"/>
-  <h1>< 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚝𝚑𝚎 𝙼𝚎𝚘𝚝𝚛𝚒𝚡 ></h1>
+  <h1>< 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚝𝚑𝚎 Matrix ></h1>
   <p> 𝙳𝚒𝚜𝚌𝚘𝚟𝚎𝚛 𝚖𝚢 𝚘𝚝𝚑𝚎𝚛 𝚛𝚎𝚊𝚕𝚖𝚜 </p>
   <div>
     <a href="https://dev.to/pixelrena" target="_blank"><img alt="pixelRena-badge-devto" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=green"/></a>
