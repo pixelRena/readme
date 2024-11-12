@@ -4,8 +4,6 @@
   </p>
   <img alt="pixelRena-catmatrix" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200"/>
   <div>
-    <a href="https://dev.to/pixelrena" target="_blank"><img alt="pixelRena-badge-devto" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=green"/></a>
-    <a href="https://www.linkedin.com/in/sdean00/"><img alt="pixelRena-badge-linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=green"/></a>
   </div>
   <br/>
 </div>
